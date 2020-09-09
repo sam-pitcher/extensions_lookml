@@ -1,4 +1,4 @@
-project_name: "extensions"
+# project_name: "extensions"
 
 application: my-great-extension {
   label: "My Great Extension"
